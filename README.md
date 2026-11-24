@@ -13,6 +13,13 @@
 ![](https://github-readme-stats.shion.dev/api?username=svNadja&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=svNadja&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+---
+
+## 🚀 Featured projects
+
+<table>
+ <p>Coming soon!</p>
+</table>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/nadiia-shvets-394714269)
